@@ -12,7 +12,9 @@
     "prettier": "prettier --write --ignore-path .gitignore ."
   },
   "devDependencies": {
+    "@iconify/json": "^2.2.121",
     "@nuxt/devtools": "latest",
+    "@nuxt/ui": "^2.8.1",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/eslint-module": "^4.1.0",
     "@nuxtjs/i18n": "next",

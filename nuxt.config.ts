@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     "@nuxtjs/i18n",
+    "@nuxt/ui",
     "@nuxtjs/eslint-module"
   ],
   i18n: {
@@ -30,5 +31,8 @@ export default defineNuxtConfig({
       alwaysRedirect: true,
       fallbackLocale: "en"
     }
+  },
+  ui: {
+    icons: "all"
   }
 });
