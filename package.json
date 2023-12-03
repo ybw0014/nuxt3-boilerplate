@@ -12,7 +12,7 @@
     "prettier": "prettier --write --ignore-path .gitignore ."
   },
   "devDependencies": {
-    "@guizhan/eslint-config": "^0.1.1",
+    "@guizhan/eslint-config": "^0.2.0",
     "@iconify/json": "^2.2.121",
     "@nuxt/devtools": "latest",
     "@nuxt/ui": "^2.8.1",
